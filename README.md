@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://sahilchotaliya.netlify.app/)
+- 👨‍💻 All of my projects are available at https://sahilchotaliya.netlify.app/
 
 - 📫 How to reach me **chotaliyasahil7890@gmail.com**
 
