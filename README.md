@@ -1,18 +1,63 @@
 <h1 align="center">Hi 👋, I'm Sahil Chotaliya</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">🚀 A Backend Developer from India who loves building robust, scalable systems</h3>
 
-- 🔭 I’m currently working on **Axelor Pvt Ltd**
-
-- 🌱 I’m currently learning **Spring boot**
-
-- 👨‍💻 All of my projects are available at https://sahilchotaliya.netlify.app/
-
-- 📫 How to reach me **chotaliyasahil7890@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/sahil_1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_1212" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-chotaliya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sahilchotaliya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:chotaliyasahil7890@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+- 🔭 Currently contributing to **ERP-based GST application at Axelor Pvt Ltd**
+- 🌱 Deep-diving into **Spring Boot, Docker, and scalable REST API development**
+- 💼 Previously interned at **Oceanbit Solutions**, building PHP/Laravel apps
+- 👨‍💻 Check out all my projects: [My Portfolio](https://sahilchotaliya.netlify.app/)
+- 🧠 HackerRank Certified in Java, SQL & Software Engineering
+- 💬 Ask me about **Spring Boot, Java 8, REST APIs, JWT, OAuth2, and React Integration**
+- 📫 Reach me: **chotaliyasahil7890@gmail.com**
+
+---
+
+### 🔗 Connect With Me:
+<p align="left">
+  <a href="https://leetcode.com/sahil_1212" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+### 🚀 Featured Projects
+
+- 🔗 [**URL Shortener**](https://github.com/sahilchotaliya/url-shortener) – Full-stack app with Google OAuth, JWT auth, analytics, and Docker deployment  
+- 📚 [**Exam Portal**](https://github.com/sahilchotaliya/ExamPortal-SpringBoot) – Angular + Spring Boot online exam system with quiz generation and scoring  
+- 📇 [**Contact Management System**](https://github.com/sahilchotaliya/Contact-Management-System-) – Spring Boot app with Google Auth, image upload, email verification  
+- 🧾 [**Axelor GST App**](https://github.com/sahilchotaliya/Axelor-Gst-App) – ERP-based GST solution with Java, Guice, Hibernate  
+- 🧮 [**Invoice & Inventory System**](https://github.com/sahilchotaliya/invoice-and-Inventory_Management_System-main) – Laravel PHP app with real-time updates & reporting
+
+---
+
+📌 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
